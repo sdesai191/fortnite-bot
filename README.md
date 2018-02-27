@@ -12,3 +12,6 @@ Powered by [Fortnite Tracker API](https://fortnitetracker.com/site-api) and [for
 /duo username for player's duo stats
 
 /squad username for player's squad stats
+
+/alias 
+
